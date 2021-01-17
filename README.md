@@ -10,6 +10,6 @@ This app is showing world time. You can select the timezone and look to current 
 
 ### Contact
 
-E-mail: kodmanyagha@gmail.com
-Phone: +90 537 493 7766
-Telegram: @emirbugra
+- E-mail: kodmanyagha@gmail.com
+- Phone: +90 537 493 7766
+- Telegram: @emirbugra
